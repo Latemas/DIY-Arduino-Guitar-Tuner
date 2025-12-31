@@ -17,6 +17,10 @@
 * **High Torque Performance:** Specifically designed to rotate heavy guitar pegs using an 11.1V LiPo supply.
 * **Visual Interface:** Minimalist UI on an SSD1306 OLED display with status LEDs.
 
+### 📚 Library Installation
+Install these via **Arduino Library Manager**:
+* `Adafruit SSD1306` & `Adafruit GFX`
+
 ### 🔌 Detailed Wiring (Pinout)
 
 | Component | Arduino Pin | Connection & Component Detail |
@@ -55,6 +59,10 @@ This project was initiated during my internship at **Robotistan** and later refi
 * **Hassas Perde Algılama:** Gitar telleri için optimize edilmiş frekans analizi.
 * **Yüksek Tork Performansı:** 11.1V LiPo beslemesi ile gitar burgularını çevirecek güçte tasarım.
 * **Görsel Arayüz:** Durum LED'leri ve SSD1306 OLED ekran üzerinde minimalist kullanıcı arayüzü.
+
+### 📚 Kütüphane Kurulumu
+**Arduino Kütüphane Yöneticisi** üzerinden şu kütüphaneleri kurun:
+* `Adafruit SSD1306` & `Adafruit GFX`
 
 ### 🔌 Detaylı Bağlantı Haritası (Pinout)
 
