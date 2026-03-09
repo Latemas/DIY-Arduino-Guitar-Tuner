@@ -20,6 +20,7 @@
 ### 📚 Library Installation
 Install these via **Arduino Library Manager**:
 * `Adafruit SSD1306` & `Adafruit GFX`
+![Kütüphane Kurulumu](./library.png)
 
 ### 🔌 Detailed Wiring (Pinout)
 
@@ -63,6 +64,7 @@ This project was initiated during my internship at **Robotistan** and later refi
 ### 📚 Kütüphane Kurulumu
 **Arduino Kütüphane Yöneticisi** üzerinden şu kütüphaneleri kurun:
 * `Adafruit SSD1306` & `Adafruit GFX`
+![Kütüphane Kurulumu](./library.png)
 
 ### 🔌 Detaylı Bağlantı Haritası (Pinout)
 
